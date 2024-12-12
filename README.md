@@ -50,10 +50,6 @@ Install the dependencies
  ---
 python evaluate.py
 
-## Results
-Achieved accuracy on the test set: [Add result here]
-Loss on the test set: [Add result here]
-
 ## Future Work
 Experiment with different architectures (e.g., ResNet, EfficientNet).
 Test the model on other datasets for comparison.
