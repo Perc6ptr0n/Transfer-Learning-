@@ -34,24 +34,28 @@ Matplotlib (optional, for visualizations)
 ## How to Run
 
 Clone the repository
-$ git clone https://github.com/your-username/transfer-learning-mobilenetv3.git
-$ cd transfer-learning-mobilenetv3
+---
+git clone https://github.com/your-username/transfer-learning-mobilenetv3.git
+cd transfer-learning-mobilenetv3
 
 Install the dependencies
-$ pip install -r requirements.txt
+---
+ pip install -r requirements.txt
 
  Run the training script
-$ python train.py
+ ---
+ python train.py
 
  Evaluate the model
-$ python evaluate.py
+ ---
+python evaluate.py
 
 ## Results
 Achieved accuracy on the test set: [Add result here]
 Loss on the test set: [Add result here]
 
 ## Future Work
- Experiment with different architectures (e.g., ResNet, EfficientNet).
+Experiment with different architectures (e.g., ResNet, EfficientNet).
 Test the model on other datasets for comparison.
 Optimize the training pipeline for better performance.
 
@@ -61,4 +65,4 @@ MobileNetV3 architecture by Google Research.
 
 ## License
 
-# Licensed under the MIT License. See LICENSE file for details.
+Licensed under the MIT License. See LICENSE file for details.
